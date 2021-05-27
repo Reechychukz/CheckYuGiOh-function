@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\bin\Debug\netcoreapp3.1\checkYuGiOh.exe
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\bin\Debug\netcoreapp3.1\checkYuGiOh.deps.json
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\bin\Debug\netcoreapp3.1\checkYuGiOh.runtimeconfig.json
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\bin\Debug\netcoreapp3.1\checkYuGiOh.runtimeconfig.dev.json
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\bin\Debug\netcoreapp3.1\checkYuGiOh.dll
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\bin\Debug\netcoreapp3.1\checkYuGiOh.pdb
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\obj\Debug\netcoreapp3.1\checkYuGiOh.csprojAssemblyReference.cache
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\obj\Debug\netcoreapp3.1\checkYuGiOh.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\obj\Debug\netcoreapp3.1\checkYuGiOh.AssemblyInfo.cs
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\obj\Debug\netcoreapp3.1\checkYuGiOh.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\obj\Debug\netcoreapp3.1\checkYuGiOh.dll
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\obj\Debug\netcoreapp3.1\checkYuGiOh.pdb
+C:\Users\user\source\repos\checkYuGiOh\checkYuGiOh\obj\Debug\netcoreapp3.1\checkYuGiOh.genruntimeconfig.cache
